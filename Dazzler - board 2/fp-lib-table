@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Dazzler)(type KiCad)(uri "C:/Users/garyr/OneDrive/Documents/Vintage computers/Projects/Dazzler")(options "")(descr ""))
+  (lib (name S100connector)(type Legacy)(uri ${KIPRJMOD}/S100connector.mod)(options "")(descr ""))
+)
