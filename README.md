@@ -1,15 +1,17 @@
-# Cromemco-Dazzler
+# Cromemco-Dazzler-RevD
 
-Gerbers for the Cromemco Dazzler boards
+PCB layouts for the Cromemco Dazzler RevD boards in KiCAD format
 
-This repositry contains two archives containing Gerber files for a replica of the Cromemco Dazzler S100 video card. 
+This repositry contains two PCB layouts for a replica of the Cromemco Dazzler S100 video card. 
 
 This will require the original vintage components to construct.
+
+The original layout work has been performed by Gary Clark from North West Computer Museum
 
 PCB artwork was created by Hugo Holden of the Vintage Computer Federation and the PCB layout created by myself.
 
 Thread here https://forum.vcfed.org/index.php?threads/cromemco-dazzler-replica-project.77906/
 
-These have not yet been tested though builds are now in progress. 
+These have not yet been tested.
 
 
