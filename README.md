@@ -14,4 +14,4 @@ Thread here https://forum.vcfed.org/index.php?threads/cromemco-dazzler-replica-p
 
 These have not yet been tested.
 
-
+Also added is a utility for testing Dazzler Hardware. See the included README.
