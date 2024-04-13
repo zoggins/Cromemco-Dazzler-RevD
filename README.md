@@ -2,7 +2,7 @@
 
 PCB layouts for the Cromemco Dazzler RevD boards in KiCAD format. Now including Gerbers.
 
-This repository contains two PCB layouts for a replica of the Cromemco Dazzler S100 video card. 
+This repository contains two PCB layouts for a replica of the Cromemco Dazzler S-100 video card. 
 
 This will require the original vintage components to construct.
 
