@@ -12,6 +12,6 @@ PCB artwork was created by Hugo Holden of the Vintage Computer Federation.
 
 Thread here https://forum.vcfed.org/index.php?threads/cromemco-dazzler-replica-project.77906/
 
-These have not yet been tested.
+Errors found with first production run have been fixed, but not yet been tested with a final production.
 
 Also added is a utility for testing Dazzler Hardware. See the included README.
