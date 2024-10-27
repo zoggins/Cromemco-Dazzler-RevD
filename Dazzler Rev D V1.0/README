@@ -1,0 +1,36 @@
+Production hints Cromemco Dazzler Rev D replica PCB 1.0
+-------------------------------------------------------
+
+In order to achieve best a possible match with the original Cromemco Dazzler,
+try to select the following options for production:
+
+- Select green 2 layer PCB with thickness 1.6 and white silk screen (normally
+  standard)
+
+- Select "tented" for via covering for Dazzler board #1, and "untented" via
+  covering for Dazzler board #2. Covering should be done with solder mask.
+  I recommend to ask explicitely for vias covered with solder mask for
+  board #1, otherwise you may or may not receive the expected outcome.
+
+- Make sure the manufacturer is capable of gold plating the PCB fingers only.
+  Most manufacturers are only able to use ENIG or HASL for the whole board.
+  
+- Make sure the silkscreen printing is enabled also on the openings of the
+  solder mask. Most manufacturers by default will print on the solder mask only,
+  so that parts of the silkscreen like the Cromemco Logo will be removed.
+  
+- Make sure any extra printings (beyond silkscreen) are deselected (e.g. serial
+  numbers, order numbers, bar codes etc.)
+  
+I recommend contact fingers to be chamfered, so that the PCB better fits into
+the mainboard socket.
+
+None of the above options (except thickness) has relevance for functionality.
+Not every manufacturer offers all of the above options, you probably also have
+to make your choice on economy vs. accuracy.
+
+Disclaimer:
+
+The layouts are intended for educational purpose only. They have been tested,
+but they are provided 'as is' and of course there is no guarantee or liability
+of any kind. Please contact me via GitHub if there is any issue to report.
